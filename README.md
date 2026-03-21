@@ -1,2 +1,7 @@
-# paxon-repo
-for newtem's shell
+# PAXON REPO
+paxon package repository
+
+## USAGE
+```
+paxon -S <pkg>
+```
