@@ -5,3 +5,7 @@ paxon package repository
 ```
 paxon -S <pkg>
 ```
+
+```
+revit ={px<it>pkg}
+```
