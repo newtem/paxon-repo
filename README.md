@@ -1,13 +1,12 @@
-# PAXON REPO
-paxon package repository
+# Paxon Package Repository
 
-for sopsh, dev environment, newtemd, etc.
+Paxon is a lightweight package repository for tools such as **sopsh**, **development environments**, and other ecosystem components.
 
-## USAGE
-```
-paxon -S <pkg>
-```
+---
 
-```
-revit ={px<it>pkg}
-```
+## Installation & Usage
+
+Install a package using paxon:
+
+```bash
+paxon -S <pkgName>
