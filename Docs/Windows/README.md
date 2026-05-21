@@ -7,5 +7,5 @@ the executable is automatically added to the system `PATH`,
 allowing it to be accessed from Command Prompt, PowerShell, sopsh,
 and other supported shells.
 
-See [platform differences](/Docs/Windows/platform-differences.md)
+See [platform differences](/Docs/Linux/platform-differences.md)
 for more details.
