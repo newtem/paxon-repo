@@ -6,7 +6,7 @@
     "neko": {
         "version": "1.1.0",
         "description": "A simple neko in your terminal."
-    }
+    },
     "lilium": {
         "version": "1.1.0",
         "description": "Notification manager supporting OS notifications and TUI notifications."
