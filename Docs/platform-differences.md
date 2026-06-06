@@ -6,10 +6,10 @@ The Windows, Linux, and macOS builds of Paxon utilize different package reposito
 
 | Feature | Windows | Linux | macOS |
 | :--- | :--- | :--- | :--- |
-| **Installation Path** | `/commands` | `~/.local/bin/` | `/usr/local/bin/` |
+| **Installation Path** | `%USERPROFILE%\paxon\` | `~/.local/bin/` | `/usr/local/bin/` |
 | **Package Extension** | `.exe` | None (Native Binary) | None (MachO Binary) |
-| **Configuration Path**| `.config/paxon.rpp` | `~/.config/paxon/` | `.config/paxon.rpp` |
-| **Main Architecture** | x86_64 | x86_64 (Intel/AMD) | ARM64 (Apple Silicon) |
+| **Configuration Path**| `~/.config/paxon.rpp` | `~/.config/paxon/` | `~/.config/paxon.json` |
+| **Main Architecture** | x86_64 | x86_64 | ARM64 (Apple Silicon) |
 
 ---
 
