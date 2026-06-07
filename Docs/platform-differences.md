@@ -8,8 +8,9 @@ The Windows, Linux, and macOS builds of Paxon utilize different package reposito
 | :--- | :--- | :--- | :--- |
 | **Installation Path** | `%USERPROFILE%\paxon\` | `~/.local/bin/` | `/usr/local/bin/` |
 | **Package Extension** | `.exe` | None (Native Binary) | None (MachO Binary) |
-| **Configuration Path**| `~/.config/paxon.rpp` | `~/.config/paxon/` | `~/.config/paxon.json` |
+| **Configuration Path**| `%USERPROFILE%\.config\paxon.rpp` | `~/.config/paxon/` | `~/.config/paxon.json` |
 | **Main Architecture** | x86_64 | x86_64 | ARM64 (Apple Silicon) |
+| **PATH Registration** | Automatic (Registry `HKCU\Environment`) | Manual (export in shell profile) | Manual (`/usr/local/bin` is pre-registered) |
 
 ---
 
@@ -17,7 +18,8 @@ The Windows, Linux, and macOS builds of Paxon utilize different package reposito
 
 #### 🪟 Windows Runtime
 * Uses standard Windows executable (`.exe`) handling.
-* Binaries are isolated within the local `/commands` directory.
+* On first run, `paxon.exe` automatically copies itself to `%USERPROFILE%\paxon\` and registers that directory in the user PATH via `HKCU\Environment` in the Windows Registry.
+* All installed packages are stored under `%USERPROFILE%\paxon\` and are immediately accessible from any terminal (cmd, PowerShell, Windows Terminal) after opening a new window.
 
 #### 🐧 Linux Runtime
 * Tailored for native Linux environments using standard POSIX APIs (`fork`/`execvp`).
