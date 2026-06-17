@@ -30,6 +30,11 @@
         "description": "Simple cli random password generator.",
         "languages": ["Rust"]
     },
+    "shizu": {
+        "version": "1.0",
+        "description": "Virtual web browser.",
+        "languages": ["C++"]
+    },
     "femto": {
         "version": "2.0.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
