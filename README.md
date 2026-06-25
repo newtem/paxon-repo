@@ -17,3 +17,6 @@ paxon -S <pkgName>
  + Windows Build: Stable and optimized production ready version.
  + macOS Build: Beta version including the latest experimental features.
  + Linux Build: Standard version balancing new features and stability.
+
+> [!WARNING]
+> - Linux build support has been discontinued.
