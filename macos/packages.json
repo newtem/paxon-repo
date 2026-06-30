@@ -55,6 +55,10 @@
         "description": "Anime pictures downloader.",
         "languages": ["C++"]
     },
+    "ipx": {
+        "version": "2.0.0",
+        "description": "Simple IP utility."
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
