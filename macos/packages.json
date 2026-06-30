@@ -50,6 +50,11 @@
         "description": "Subculture gacha game resource calculator.",
         "languages": ["C++"]
     },
+    "tempestar": {
+        "version": "0.1.0",
+        "description": "Anime pictures downloader.",
+        "languages": ["C++"]
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
