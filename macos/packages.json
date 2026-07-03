@@ -59,6 +59,10 @@
         "version": "2.0.1",
         "description": "Simple IP utility."
     },
+    "nityl": {
+        "version": "1.2",
+        "description": "Minimal cli agent."
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
