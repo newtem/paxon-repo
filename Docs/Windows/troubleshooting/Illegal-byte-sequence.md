@@ -12,3 +12,7 @@ terminate called after throwing an instance of 'std::filesystem::__cxx11::filesy
 + Move the project to a pure english path (Recommended)
 + Change your windows username or profile folder to english
 + Enable windows UTF-8 global support
+
+
+## Fixed!
++ Please install latest version of paxon.
