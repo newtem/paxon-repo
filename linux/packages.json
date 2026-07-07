@@ -1,0 +1,32 @@
+{
+    "paxon": {
+        "version": "1.3.8",
+        "description": "Newtem's official package manager.",
+        "languages": ["C++"]
+    },
+    "ipx": {
+        "version": "2.0.1",
+        "description": "Simple IP utility.",
+        "languages": ["C++"]
+    },
+    "lock": {
+        "version": "1.0",
+        "description": "Simple terminal lock.",
+        "languages": ["C++"]
+    },
+    "lilium": {
+        "version": "1.1.0",
+        "description": "Notification manager supporting OS notifications and TUI notifications.",
+        "languages": ["C++"]
+    },
+    "rolima": {
+        "version": "1.2",
+        "description": "ntasm V26A runtime.",
+        "languages": ["C++"]
+    },
+    "neko": {
+        "version": "1.0.0",
+        "description": "A simple neko in your terminal.",
+        "languages": ["C++"]
+    }
+}
