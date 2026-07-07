@@ -1,10 +1,6 @@
 ## Paxon Linux Build
 
 Paxon Linux build has been released.
-
-> [!IMPORTANT]
-> Updates are currently paused.
-
 When installed via the package, it is automatically placed in `~/.local/bin`, making it available across all shells.
 
 > [!WARNING]
