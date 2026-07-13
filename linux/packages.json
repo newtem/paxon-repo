@@ -35,6 +35,11 @@
         "description": "A terminal disk usage navigator.",
         "languages": ["C++"]
     },
+    "nd-cli": {
+        "version": "1.0",
+        "description": "NetDust build test cli software.",
+        "languages": ["C++", "NetDust"]
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
