@@ -8,7 +8,8 @@
     "ipx": {
         "version": "2.0.1",
         "description": "Simple IP utility.",
-        "languages": ["C++"]
+        "languages": ["C++"],
+        "sha256": "abf6d252fb08cbff898e5c2f9b61f8eb2a5d37196c422c49af075bad7d7f7db"
     },
     "lock": {
         "version": "1.0",
