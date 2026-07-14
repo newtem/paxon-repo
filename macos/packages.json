@@ -62,10 +62,10 @@
         "languages": ["C++"]
     },
     "zbat": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "Simple battery health utility.",
         "languages": ["C++"],
-        "sha256": "e73749783862e61c7f543d8c777b7414fed85b460018fa7bb70f28243dc1f7d3"
+        "sha256": "a4329f53f56383950a8672abb17decb41a5b7a988a46d1c255be46bc0dba638e"
     },
     "initpad": {
         "version": "1.0.0",
