@@ -68,10 +68,10 @@
         "sha256": "a4329f53f56383950a8672abb17decb41a5b7a988a46d1c255be46bc0dba638e"
     },
     "initpad": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "Simple login items utility.",
         "languages": ["C++"],
-        "sha256": "b6a6adf7c694addc8d514086f65f8c5eb6ce47d3c135292411bd2ca71b4826fe"
+        "sha256": "6844a7261c90f2c54ea67ef9aaf0648f55d35ba00390443cc0d450f779a02c4f"
     },
     "nityl": {
         "version": "1.3",
