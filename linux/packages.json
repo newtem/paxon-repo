@@ -11,6 +11,12 @@
         "languages": ["C++"],
         "sha256": "abf6d252fb08cbff898e5c2f9b61f8eb2a5d37196c422c49af075bad7d7f7dbc"
     },
+    "zbat": {
+        "version": "1.1.0",
+        "description": "Simple battery health utility.",
+        "languages": ["C++"],
+        "sha256": "0e09901a5466590803d5cf095550e916127459ac610a24282610c228fd5ee9a1"
+    },
     "lock": {
         "version": "1.0",
         "description": "Simple terminal lock.",
