@@ -116,7 +116,13 @@
         "description": "Example third party module for meyku",
         "languages": ["C++"],
         "sha256": "b06fbdd8602d953afc30a225229330d7b4f364ead9f478fbc2c2faf4be16772c"
-    },    
+    },
+    "meyku-quote": {
+        "version": "0.1.0",
+        "description": "A local, no network line for meyku that changes daily.",
+        "languages": ["C++"],
+        "sha256": "58e978f0285cfafa2e3628b88329fbdb78e9b5c51f67504ce55f5162ee4d90cf"
+    }
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
