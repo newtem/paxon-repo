@@ -122,7 +122,7 @@
         "description": "A local, no network line for meyku that changes daily.",
         "languages": ["C++"],
         "sha256": "58e978f0285cfafa2e3628b88329fbdb78e9b5c51f67504ce55f5162ee4d90cf"
-    }
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
