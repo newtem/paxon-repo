@@ -100,10 +100,10 @@
         "languages": ["C++"]
     },
     "meyku": {
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "A chill terminal companion.",
         "languages": ["C++"],
-        "sha256": "aa69bc001391117fabbef01023a4565add0dea0158865ed7c5dabb767d44ebc0"
+        "sha256": "500cc58de8c5830ac10ce36f4286164d2c568cf5d1d651033d9f8ea8b0b7477a"
     },
     "meyku-hello": {
         "version": "0.1.0",
