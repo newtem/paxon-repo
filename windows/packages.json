@@ -3,7 +3,7 @@
         "version": "1.4.2",
         "description": "Newtem's official package manager.",
         "languages": ["C++"],
-        "sha256": "23a86f4be8693838adca1fd4ebef488e46a044660259994bdcc24926de5fa439"
+        "sha256": "6f8e14e9be1c7be718de823f42f8cc19510991ce5c560773bd59a759fab8ff3f"
     },
     "neko": {
         "version": "1.0.0",
