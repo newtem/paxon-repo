@@ -18,5 +18,5 @@ paxon -S <pkgName>
  + macOS Build: Beta version including the latest experimental features.
  + Linux Build: Standard version balancing new features and stability.
 
-> [!NOTE]
-> Linux build support has resumed.
+> [!CAUTION]
+> GitHub repo no longer works with paxon version 1.4.1 or earlier.
