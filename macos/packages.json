@@ -117,6 +117,12 @@
         "description": "A terminal disk usage navigator.",
         "languages": ["C++"]
     },
+    "moodlog": {
+        "version": "1.0.0",
+        "description": "A terminal mood journal.",
+        "languages": ["C++"],
+        "sha256": "205f559072fa2f54b86b3bc71358077f4dc71a05760b21f4872c25befb93280a"
+    },
     "meyku": {
         "version": "0.1.1",
         "description": "A chill terminal companion.",
