@@ -23,3 +23,5 @@ paxon -S <package-name>
 
 > [!CAUTION]
 > GitHub repo no longer works with paxon version 1.4.1 or earlier.
+>
+> Update to the latest version using `paxon update`.
