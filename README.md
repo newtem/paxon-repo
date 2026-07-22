@@ -1,16 +1,19 @@
 # Paxon Package Repository
 
-Paxon is a lightweight package repository for tools such as **sopsh**, **development environments**, and other ecosystem components.
+Paxon is a lightweight package repository for **sopsh**, **development environments**, and other components of the **ni ecosystem**.
+The official default mirror for paxon is this github repository.
 
 ---
 
-## Installation & Usage
+## Installation
 
 Install a package using paxon:
 
 ```bash
-paxon -S <pkgName>
+paxon -S <package-name>
 ```
+
+---
 
 ## OS Build Variants
 
