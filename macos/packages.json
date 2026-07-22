@@ -36,7 +36,7 @@
         "version": "1.1.4",
         "description": "A lightweight scripting runtime for NetDust.",
         "languages": ["C++"],
-        "sha256": "cfeb78aa87ab0b7ac862ab6a618d321f9496470c002f91455598233e53fef6af"
+        "sha256": "d41037517d250cce11c2272212d7ec98ac627da3d271219ee4471400ab931785"
     },
     "passgen": {
         "version": "1.0.0",
