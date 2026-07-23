@@ -20,6 +20,12 @@
         "description": "Simple battery health utility.",
         "languages": ["C++"]
     },
+    "ndr": {
+        "version": "1.1.5",
+        "description": "A lightweight scripting runtime for NetDust.",
+        "languages": ["C++"],
+        "sha256": "295f68c4969b6c9e190b4ea41d8f3c6853f063e556e5ed2f8cb23294af4f4510"
+    },
     "sopsh": {
         "version": "1.0.2607.8",
         "description": "Minimal shell for Windows.",
